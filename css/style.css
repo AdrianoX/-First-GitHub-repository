@@ -1,0 +1,10 @@
+$color-main: #34ace0;
+$color-light: #fff;
+$font-text: 'Crimson Text', serif;
+$font-header: 'Open Sans', sans-serif;
+
+
+.body {
+    margin: 0;
+    text-align: center;
+}
