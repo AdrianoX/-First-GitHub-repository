@@ -2,7 +2,6 @@ $ node_modules/.bin/autoprefixer-cli start -o css/style.prefixed.css css/style.c
 
 autoprefixer-cli -o style.prefixed.css style.css
 
-
 $ node_modules/ .bin/html-validate *.html
 
 html-validate *.html
